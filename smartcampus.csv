@@ -1,0 +1,601 @@
+timestamp,principal,device,activity,message,attribute,value,anomaly,time_hdn,date,time
+1635724800,System,Climate Sensmitter,Building Automation,Data,Temperature,21.464572899819707,0,000000,2021-11-01,00:00:00
+1635728400,System,Smart Camera,Building Automation,Data,Presence,0,0,010000,2021-11-01,01:00:00
+1635732000,System,Climate Sensmitter,Building Automation,Data,Temperature,26.369149963605004,0,020000,2021-11-01,02:00:00
+1635735600,System,Climate Sensmitter,Building Automation,Data,Temperature,35.279509219778824,0,030000,2021-11-01,03:00:00
+1635739200,User1,Phone,User Feedback,Data,State,silent,0,040000,2021-11-01,04:00:00
+1635742800,System,Climate Sensmitter,Building Automation,Data,Temperature,27.692805999262255,0,050000,2021-11-01,05:00:00
+1635746400,System,Smart Camera,Building Automation,Data,Direction,in,0,060000,2021-11-01,06:00:00
+1635750000,System,Smart Camera,Building Automation,Data,Presence,0,0,070000,2021-11-01,07:00:00
+1635753600,System,Climate Sensmitter,Building Automation,Data,Temperature,33.50645471801812,0,080000,2021-11-01,08:00:00
+1635757200,System,Climate Sensmitter,Building Automation,Data,Temperature,33.09217413957924,0,090000,2021-11-01,09:00:00
+1635768000,System,Smart Camera,Building Automation,Data,Presence,1,0,120000,2021-11-01,12:00:00
+1635771600,User2,Phone,User Feedback,Data,State,convo/meeting,0,130000,2021-11-01,13:00:00
+1635775200,User1,Phone,User Feedback,Data,State,convo/meeting,0,140000,2021-11-01,14:00:00
+1635778800,System,Climate Sensmitter,Building Automation,Data,Temperature,37.48483678922438,0,150000,2021-11-01,15:00:00
+1635782400,System,Smart Camera,Building Automation,Data,Presence,0,0,160000,2021-11-01,16:00:00
+1635786000,System,Climate Sensmitter,Building Automation,Data,Temperature,39.209483628261744,0,170000,2021-11-01,17:00:00
+1635789600,User1,Phone,User Feedback,Data,State,convo/meeting,0,180000,2021-11-01,18:00:00
+1635793200,User2,Phone,User Feedback,Data,State,silent,0,190000,2021-11-01,19:00:00
+1635796800,User2,Phone,User Feedback,Data,State,silent,0,200000,2021-11-01,20:00:00
+1635800400,System,Climate Sensmitter,Building Automation,Data,Temperature,36.547992971237925,0,210000,2021-11-01,21:00:00
+1635804000,System,Smart Camera,Building Automation,Data,Presence,1,0,220000,2021-11-01,22:00:00
+1635807600,User1,Phone,User Feedback,Data,Count,0,0,230000,2021-11-01,23:00:00
+1635811200,System,Climate Sensmitter,Building Automation,Data,Temperature,23.0756254260025,0,000000,2021-11-02,00:00:00
+1635814800,System,Smart Lighting,Building Automation,Command,Brightness,135.0,0,010000,2021-11-02,01:00:00
+1635818400,System,Climate Sensmitter,Building Automation,Data,Temperature,31.639056235018217,0,020000,2021-11-02,02:00:00
+1635822000,User3,Phone,User Feedback,Data,State,silent,1,030000,2021-11-02,03:00:00
+1635825600,User1,Phone,User Feedback,Data,State,silent,0,040000,2021-11-02,04:00:00
+1635832800,System,Climate Sensmitter,Building Automation,Data,Temperature,36.83814352753308,0,060000,2021-11-02,06:00:00
+1635836400,System,Climate Sensmitter,Building Automation,Data,Temperature,33.29791094091029,0,070000,2021-11-02,07:00:00
+1635840000,System,Smart Camera,Building Automation,Data,Presence,0,0,080000,2021-11-02,08:00:00
+1635843600,System,Smart Camera,Building Automation,Data,Direction,right,0,090000,2021-11-02,09:00:00
+1635850800,System,Climate Sensmitter,Building Automation,Data,Temperature,25.75608214935588,0,110000,2021-11-02,11:00:00
+1635854400,System,Smart Camera,Building Automation,Data,Direction,out,0,120000,2021-11-02,12:00:00
+1635858000,System,Smart Lighting,Building Automation,Command,Brightness,210.0,0,130000,2021-11-02,13:00:00
+1635861600,System,Climate Sensmitter,Building Automation,Data,Temperature,24.16781532389718,0,140000,2021-11-02,14:00:00
+1635865200,User3,Phone,User Feedback,Data,State,convo/meeting,1,150000,2021-11-02,15:00:00
+1635868800,System,Smart Camera,Building Automation,Data,Direction,left,0,160000,2021-11-02,16:00:00
+1635876000,User1,Phone,User Feedback,Data,State,convo/meeting,0,180000,2021-11-02,18:00:00
+1635879600,System,Smart Camera,Building Automation,Data,Direction,in,0,190000,2021-11-02,19:00:00
+1635897600,System,Smart Camera,Building Automation,Data,Direction,right,0,000000,2021-11-03,00:00:00
+1635901200,User3,Phone,User Feedback,Data,Count,0,0,010000,2021-11-03,01:00:00
+1635904800,System,Smart Camera,Building Automation,Data,Direction,out,0,020000,2021-11-03,02:00:00
+1635908400,System,Climate Sensmitter,Building Automation,Data,Temperature,35.035482045736615,0,030000,2021-11-03,03:00:00
+1635912000,System,Smart Camera,Building Automation,Data,Direction,right,0,040000,2021-11-03,04:00:00
+1635915600,System,Climate Sensmitter,Building Automation,Data,Temperature,21.202625462285845,0,050000,2021-11-03,05:00:00
+1635919200,User3,Phone,User Feedback,Data,State,silent,1,060000,2021-11-03,06:00:00
+1635922800,User1,Phone,User Feedback,Data,State,silent,0,070000,2021-11-03,07:00:00
+1635926400,System,Smart Camera,Building Automation,Data,Direction,right,0,080000,2021-11-03,08:00:00
+1635930000,User2,Phone,User Feedback,Data,State,convo/meeting,0,090000,2021-11-03,09:00:00
+1635933600,System,Climate Sensmitter,Building Automation,Data,Temperature,23.81133050779554,0,100000,2021-11-03,10:00:00
+1635937200,System,Smart Camera,Building Automation,Data,Presence,1,0,110000,2021-11-03,11:00:00
+1635940800,System,Climate Sensmitter,Building Automation,Data,Temperature,36.541708921281035,0,120000,2021-11-03,12:00:00
+1635944400,System,Smart Camera,Building Automation,Data,Direction,in,0,130000,2021-11-03,13:00:00
+1635948000,User2,Phone,User Feedback,Data,State,convo/meeting,0,140000,2021-11-03,14:00:00
+1635955200,System,Climate Sensmitter,Building Automation,Data,Temperature,27.887987081212536,0,160000,2021-11-03,16:00:00
+1635958800,System,Climate Sensmitter,Building Automation,Data,Temperature,31.435952566199102,0,170000,2021-11-03,17:00:00
+1635962400,User1,Phone,User Feedback,Data,State,convo/meeting,0,180000,2021-11-03,18:00:00
+1635966000,System,Smart Camera,Building Automation,Data,Direction,out,0,190000,2021-11-03,19:00:00
+1635973200,System,Climate Sensmitter,Building Automation,Data,Temperature,20.577553345324727,0,210000,2021-11-03,21:00:00
+1635980400,System,Smart Camera,Building Automation,Data,Presence,0,0,230000,2021-11-03,23:00:00
+1635984000,System,Smart Camera,Building Automation,Data,Presence,1,0,000000,2021-11-04,00:00:00
+1635987600,System,Climate Sensmitter,Building Automation,Data,Temperature,26.97822431405509,0,010000,2021-11-04,01:00:00
+1635991200,System,Climate Sensmitter,Building Automation,Data,Temperature,31.827001463301485,0,020000,2021-11-04,02:00:00
+1635994800,User3,Phone,User Feedback,Data,State,silent,1,030000,2021-11-04,03:00:00
+1635998400,System,Smart Camera,Building Automation,Data,Direction,right,0,040000,2021-11-04,04:00:00
+1636002000,System,Climate Sensmitter,Building Automation,Data,Temperature,38.670389044685834,0,050000,2021-11-04,05:00:00
+1636009200,System,Climate Sensmitter,Building Automation,Data,Temperature,26.85019282762233,0,070000,2021-11-04,07:00:00
+1636012800,System,Smart Camera,Building Automation,Data,Presence,0,0,080000,2021-11-04,08:00:00
+1636016400,User1,Phone,User Feedback,Data,State,convo/meeting,0,090000,2021-11-04,09:00:00
+1636020000,System,Climate Sensmitter,Building Automation,Data,Temperature,32.90852568190322,0,100000,2021-11-04,10:00:00
+1636023600,System,Climate Sensmitter,Building Automation,Data,Temperature,24.088708826688073,0,110000,2021-11-04,11:00:00
+1636027200,System,Smart Camera,Building Automation,Data,Direction,right,0,120000,2021-11-04,12:00:00
+1636030800,System,Climate Sensmitter,Building Automation,Data,Temperature,20.727235747638417,0,130000,2021-11-04,13:00:00
+1636034400,System,Smart Lighting,Building Automation,Command,Brightness,37.0,0,140000,2021-11-04,14:00:00
+1636038000,System,Smart Lighting,Building Automation,Command,Brightness,70.0,0,150000,2021-11-04,15:00:00
+1636041600,System,Smart Lighting,Building Automation,Command,Brightness,198.0,0,160000,2021-11-04,16:00:00
+1636045200,System,Smart Camera,Building Automation,Data,Direction,out,0,170000,2021-11-04,17:00:00
+1636048800,System,Smart Camera,Building Automation,Data,Presence,0,0,180000,2021-11-04,18:00:00
+1636052400,User1,Phone,User Feedback,Data,State,silent,0,190000,2021-11-04,19:00:00
+1636056000,System,Climate Sensmitter,Building Automation,Data,Temperature,20.12659041423538,0,200000,2021-11-04,20:00:00
+1636066800,System,Smart Lighting,Building Automation,Command,Brightness,71.0,0,230000,2021-11-04,23:00:00
+1636070400,System,Smart Camera,Building Automation,Data,Direction,right,0,000000,2021-11-05,00:00:00
+1636074000,User3,Phone,User Feedback,Data,State,silent,1,010000,2021-11-05,01:00:00
+1636084800,System,Climate Sensmitter,Building Automation,Data,Temperature,35.52238886806204,0,040000,2021-11-05,04:00:00
+1636088400,System,Climate Sensmitter,Building Automation,Data,Temperature,24.772761727217492,0,050000,2021-11-05,05:00:00
+1636092000,User2,Phone,User Feedback,Data,State,silent,0,060000,2021-11-05,06:00:00
+1636095600,System,Smart Camera,Building Automation,Data,Direction,in,0,070000,2021-11-05,07:00:00
+1636099200,System,Climate Sensmitter,Building Automation,Data,Temperature,22.05424891875331,0,080000,2021-11-05,08:00:00
+1636102800,System,Climate Sensmitter,Building Automation,Data,Temperature,20.737725550719233,0,090000,2021-11-05,09:00:00
+1636106400,User2,Phone,User Feedback,Data,Count,0,0,100000,2021-11-05,10:00:00
+1636110000,User3,Phone,User Feedback,Data,Count,1,0,110000,2021-11-05,11:00:00
+1636113600,System,Smart Camera,Building Automation,Data,Direction,left,0,120000,2021-11-05,12:00:00
+1636124400,System,Climate Sensmitter,Building Automation,Data,Temperature,22.310198129171187,0,150000,2021-11-05,15:00:00
+1636128000,User3,Phone,User Feedback,Data,State,gathering,1,160000,2021-11-05,16:00:00
+1636131600,User1,Phone,User Feedback,Data,State,convo/meeting,0,170000,2021-11-05,17:00:00
+1636135200,User1,Phone,User Feedback,Data,State,convo/meeting,0,180000,2021-11-05,18:00:00
+1636138800,System,Climate Sensmitter,Building Automation,Data,Temperature,27.55077639515343,0,190000,2021-11-05,19:00:00
+1636142400,System,Climate Sensmitter,Building Automation,Data,Temperature,20.109213312775257,0,200000,2021-11-05,20:00:00
+1636146000,System,Smart Camera,Building Automation,Data,Presence,0,0,210000,2021-11-05,21:00:00
+1636149600,System,Smart Camera,Building Automation,Data,Direction,in,0,220000,2021-11-05,22:00:00
+1636153200,System,Climate Sensmitter,Building Automation,Data,Temperature,35.81189239726844,0,230000,2021-11-05,23:00:00
+1636156800,System,Climate Sensmitter,Building Automation,Data,Temperature,26.073835177995417,0,000000,2021-11-06,00:00:00
+1636160400,User2,Phone,User Feedback,Data,State,silent,0,010000,2021-11-06,01:00:00
+1636164000,User3,Phone,User Feedback,Data,State,silent,1,020000,2021-11-06,02:00:00
+1636167600,User2,Phone,User Feedback,Data,State,gathering,1,030000,2021-11-06,03:00:00
+1636171200,System,Climate Sensmitter,Building Automation,Data,Temperature,21.670332007690686,0,040000,2021-11-06,04:00:00
+1636174800,System,Climate Sensmitter,Building Automation,Data,Temperature,32.108718467110464,0,050000,2021-11-06,05:00:00
+1636178400,System,Climate Sensmitter,Building Automation,Data,Temperature,32.41019424966549,0,060000,2021-11-06,06:00:00
+1636182000,System,Smart Camera,Building Automation,Data,Presence,0,0,070000,2021-11-06,07:00:00
+1636185600,User1,Phone,User Feedback,Data,State,silent,0,080000,2021-11-06,08:00:00
+1636189200,System,Climate Sensmitter,Building Automation,Data,Temperature,28.929513062151173,0,090000,2021-11-06,09:00:00
+1636192800,User1,Phone,User Feedback,Data,State,silent,0,100000,2021-11-06,10:00:00
+1636196400,System,Climate Sensmitter,Building Automation,Data,Temperature,36.33841520132698,0,110000,2021-11-06,11:00:00
+1636200000,System,Climate Sensmitter,Building Automation,Data,Temperature,23.551974123341857,0,120000,2021-11-06,12:00:00
+1636207200,System,Climate Sensmitter,Building Automation,Data,Temperature,34.26153189973065,0,140000,2021-11-06,14:00:00
+1636210800,System,Smart Camera,Building Automation,Data,Presence,0,0,150000,2021-11-06,15:00:00
+1636214400,User3,Phone,User Feedback,Data,State,silent,1,160000,2021-11-06,16:00:00
+1636218000,System,Smart Camera,Building Automation,Data,Direction,out,0,170000,2021-11-06,17:00:00
+1636225200,System,Smart Camera,Building Automation,Data,Direction,in,0,190000,2021-11-06,19:00:00
+1636228800,System,Climate Sensmitter,Building Automation,Data,Temperature,37.26496541054358,0,200000,2021-11-06,20:00:00
+1636236000,System,Climate Sensmitter,Building Automation,Data,Temperature,31.0953348894612,0,220000,2021-11-06,22:00:00
+1636243200,System,Climate Sensmitter,Building Automation,Data,Temperature,29.73886791766052,0,000000,2021-11-07,00:00:00
+1636246800,User2,Phone,User Feedback,Data,State,convo/meeting,1,010000,2021-11-07,01:00:00
+1636250400,User2,Phone,User Feedback,Data,State,silent,0,020000,2021-11-07,02:00:00
+1636254000,System,Climate Sensmitter,Building Automation,Data,Temperature,28.879248676883826,0,030000,2021-11-07,03:00:00
+1636257600,User1,Phone,User Feedback,Data,State,silent,0,040000,2021-11-07,04:00:00
+1636264800,User2,Phone,User Feedback,Data,State,silent,0,060000,2021-11-07,06:00:00
+1636268400,System,Climate Sensmitter,Building Automation,Data,Temperature,25.196484737326806,0,070000,2021-11-07,07:00:00
+1636275600,User3,Phone,User Feedback,Data,State,silent,1,090000,2021-11-07,09:00:00
+1636279200,System,Smart Lighting,Building Automation,Command,Brightness,225.0,0,100000,2021-11-07,10:00:00
+1636282800,User1,Phone,User Feedback,Data,State,silent,0,110000,2021-11-07,11:00:00
+1636286400,User1,Phone,User Feedback,Data,Count,0,0,120000,2021-11-07,12:00:00
+1636290000,System,Climate Sensmitter,Building Automation,Data,Temperature,28.593699871723487,0,130000,2021-11-07,13:00:00
+1636293600,System,Smart Camera,Building Automation,Data,Presence,0,0,140000,2021-11-07,14:00:00
+1636297200,System,Climate Sensmitter,Building Automation,Data,Temperature,25.180424268644046,0,150000,2021-11-07,15:00:00
+1636300800,User1,Phone,User Feedback,Data,State,silent,0,160000,2021-11-07,16:00:00
+1636304400,System,Climate Sensmitter,Building Automation,Data,Temperature,31.13801385919685,0,170000,2021-11-07,17:00:00
+1636308000,User2,Phone,User Feedback,Data,State,silent,0,180000,2021-11-07,18:00:00
+1636311600,System,Climate Sensmitter,Building Automation,Data,Temperature,31.30679947158596,0,190000,2021-11-07,19:00:00
+1636315200,User2,Phone,User Feedback,Data,State,silent,0,200000,2021-11-07,20:00:00
+1636322400,System,Smart Camera,Building Automation,Data,Direction,out,0,220000,2021-11-07,22:00:00
+1636326000,System,Climate Sensmitter,Building Automation,Data,Temperature,36.8735854235262,0,230000,2021-11-07,23:00:00
+1636333200,System,Smart Lighting,Building Automation,Command,Brightness,231.0,0,010000,2021-11-08,01:00:00
+1636336800,System,Climate Sensmitter,Building Automation,Data,Temperature,29.075628108843325,0,020000,2021-11-08,02:00:00
+1636340400,System,Climate Sensmitter,Building Automation,Data,Temperature,36.61402251283488,0,030000,2021-11-08,03:00:00
+1636347600,System,Climate Sensmitter,Building Automation,Data,Temperature,35.71863058086351,0,050000,2021-11-08,05:00:00
+1636351200,System,Smart Camera,Building Automation,Data,Presence,1,0,060000,2021-11-08,06:00:00
+1636354800,System,Smart Camera,Building Automation,Data,Presence,1,0,070000,2021-11-08,07:00:00
+1636358400,System,Climate Sensmitter,Building Automation,Data,Temperature,33.898059422814384,0,080000,2021-11-08,08:00:00
+1636362000,System,Smart Lighting,Building Automation,Command,Brightness,171.0,0,090000,2021-11-08,09:00:00
+1636365600,User3,Phone,User Feedback,Data,Count,0,0,100000,2021-11-08,10:00:00
+1636369200,System,Smart Camera,Building Automation,Data,Presence,1,0,110000,2021-11-08,11:00:00
+1636372800,System,Smart Camera,Building Automation,Data,Presence,1,0,120000,2021-11-08,12:00:00
+1636383600,System,Smart Camera,Building Automation,Data,Direction,in,0,150000,2021-11-08,15:00:00
+1636387200,System,Smart Camera,Building Automation,Data,Direction,in,0,160000,2021-11-08,16:00:00
+1636390800,User3,Phone,User Feedback,Data,State,convo/meeting,1,170000,2021-11-08,17:00:00
+1636394400,System,Smart Camera,Building Automation,Data,Presence,0,0,180000,2021-11-08,18:00:00
+1636401600,User1,Phone,User Feedback,Data,State,silent,0,200000,2021-11-08,20:00:00
+1636405200,User1,Phone,User Feedback,Data,State,convo/meeting,1,210000,2021-11-08,21:00:00
+1636408800,System,Smart Camera,Building Automation,Data,Presence,0,0,220000,2021-11-08,22:00:00
+1636412400,User2,Phone,User Feedback,Data,State,silent,0,230000,2021-11-08,23:00:00
+1636416000,User2,Phone,User Feedback,Data,State,silent,0,000000,2021-11-09,00:00:00
+1636419600,System,Smart Camera,Building Automation,Data,Direction,out,0,010000,2021-11-09,01:00:00
+1636423200,User2,Phone,User Feedback,Data,State,silent,0,020000,2021-11-09,02:00:00
+1636426800,System,Smart Camera,Building Automation,Data,Presence,0,0,030000,2021-11-09,03:00:00
+1636430400,User1,Phone,User Feedback,Data,State,convo/meeting,1,040000,2021-11-09,04:00:00
+1636437600,System,Climate Sensmitter,Building Automation,Data,Temperature,39.4878564017247,0,060000,2021-11-09,06:00:00
+1636441200,System,Smart Camera,Building Automation,Data,Presence,0,0,070000,2021-11-09,07:00:00
+1636444800,System,Smart Camera,Building Automation,Data,Direction,right,0,080000,2021-11-09,08:00:00
+1636448400,System,Climate Sensmitter,Building Automation,Data,Temperature,34.45669886168353,0,090000,2021-11-09,09:00:00
+1636452000,User1,Phone,User Feedback,Data,Count,0,0,100000,2021-11-09,10:00:00
+1636459200,System,Smart Camera,Building Automation,Data,Presence,0,0,120000,2021-11-09,12:00:00
+1636462800,User1,Phone,User Feedback,Data,State,convo/meeting,0,130000,2021-11-09,13:00:00
+1636466400,System,Smart Lighting,Building Automation,Command,Brightness,57.0,0,140000,2021-11-09,14:00:00
+1636470000,System,Smart Camera,Building Automation,Data,Direction,in,0,150000,2021-11-09,15:00:00
+1636473600,System,Smart Camera,Building Automation,Data,Direction,in,0,160000,2021-11-09,16:00:00
+1636477200,System,Smart Camera,Building Automation,Data,Presence,0,0,170000,2021-11-09,17:00:00
+1636480800,System,Smart Camera,Building Automation,Data,Direction,left,0,180000,2021-11-09,18:00:00
+1636484400,System,Smart Camera,Building Automation,Data,Direction,out,0,190000,2021-11-09,19:00:00
+1636488000,System,Smart Lighting,Building Automation,Command,Brightness,120.0,0,200000,2021-11-09,20:00:00
+1636491600,System,Smart Camera,Building Automation,Data,Presence,0,0,210000,2021-11-09,21:00:00
+1636495200,System,Climate Sensmitter,Building Automation,Data,Temperature,24.362138085982785,0,220000,2021-11-09,22:00:00
+1636498800,User3,Phone,User Feedback,Data,State,silent,1,230000,2021-11-09,23:00:00
+1636502400,System,Smart Camera,Building Automation,Data,Presence,0,0,000000,2021-11-10,00:00:00
+1636506000,System,Climate Sensmitter,Building Automation,Data,Temperature,36.98734690105336,0,010000,2021-11-10,01:00:00
+1636509600,User3,Phone,User Feedback,Data,State,convo/meeting,1,020000,2021-11-10,02:00:00
+1636513200,System,Smart Lighting,Building Automation,Command,Brightness,148.0,0,030000,2021-11-10,03:00:00
+1636520400,User3,Phone,User Feedback,Data,State,gathering,1,050000,2021-11-10,05:00:00
+1636524000,System,Climate Sensmitter,Building Automation,Data,Temperature,28.459838498261476,0,060000,2021-11-10,06:00:00
+1636527600,System,Smart Camera,Building Automation,Data,Direction,in,0,070000,2021-11-10,07:00:00
+1636534800,System,Climate Sensmitter,Building Automation,Data,Temperature,32.55571896212587,0,090000,2021-11-10,09:00:00
+1636538400,System,Climate Sensmitter,Building Automation,Data,Temperature,29.18835051401848,0,100000,2021-11-10,10:00:00
+1636542000,System,Climate Sensmitter,Building Automation,Data,Temperature,32.84565898069246,0,110000,2021-11-10,11:00:00
+1636545600,User1,Phone,User Feedback,Data,State,convo/meeting,0,120000,2021-11-10,12:00:00
+1636549200,User2,Phone,User Feedback,Data,State,convo/meeting,0,130000,2021-11-10,13:00:00
+1636552800,System,Climate Sensmitter,Building Automation,Data,Temperature,29.367631261734303,0,140000,2021-11-10,14:00:00
+1636556400,User2,Phone,User Feedback,Data,State,convo/meeting,0,150000,2021-11-10,15:00:00
+1636560000,System,Climate Sensmitter,Building Automation,Data,Temperature,32.6059513647097,0,160000,2021-11-10,16:00:00
+1636563600,System,Climate Sensmitter,Building Automation,Data,Temperature,23.20373392653478,0,170000,2021-11-10,17:00:00
+1636567200,User3,Phone,User Feedback,Data,State,convo/meeting,1,180000,2021-11-10,18:00:00
+1636570800,System,Climate Sensmitter,Building Automation,Data,Temperature,34.92263085491781,0,190000,2021-11-10,19:00:00
+1636574400,System,Smart Camera,Building Automation,Data,Direction,right,0,200000,2021-11-10,20:00:00
+1636578000,User3,Phone,User Feedback,Data,State,silent,1,210000,2021-11-10,21:00:00
+1636581600,User3,Phone,User Feedback,Data,State,silent,1,220000,2021-11-10,22:00:00
+1636585200,User2,Phone,User Feedback,Data,State,gathering,1,230000,2021-11-10,23:00:00
+1636588800,System,Climate Sensmitter,Building Automation,Data,Temperature,37.78562844366758,0,000000,2021-11-11,00:00:00
+1636592400,System,Smart Camera,Building Automation,Data,Presence,1,0,010000,2021-11-11,01:00:00
+1636596000,User3,Phone,User Feedback,Data,State,silent,1,020000,2021-11-11,02:00:00
+1636599600,System,Smart Camera,Building Automation,Data,Presence,1,0,030000,2021-11-11,03:00:00
+1636603200,User2,Phone,User Feedback,Data,State,silent,0,040000,2021-11-11,04:00:00
+1636606800,User3,Phone,User Feedback,Data,State,silent,1,050000,2021-11-11,05:00:00
+1636610400,User1,Phone,User Feedback,Data,State,silent,0,060000,2021-11-11,06:00:00
+1636614000,System,Climate Sensmitter,Building Automation,Data,Temperature,22.256214873474583,0,070000,2021-11-11,07:00:00
+1636617600,System,Smart Camera,Building Automation,Data,Presence,1,0,080000,2021-11-11,08:00:00
+1636628400,User2,Phone,User Feedback,Data,State,convo/meeting,0,110000,2021-11-11,11:00:00
+1636632000,User2,Phone,User Feedback,Data,Count,0,0,120000,2021-11-11,12:00:00
+1636635600,System,Climate Sensmitter,Building Automation,Data,Temperature,26.917622989890745,0,130000,2021-11-11,13:00:00
+1636639200,System,Smart Lighting,Building Automation,Command,Brightness,236.0,0,140000,2021-11-11,14:00:00
+1636642800,System,Climate Sensmitter,Building Automation,Data,Temperature,27.755122213532765,0,150000,2021-11-11,15:00:00
+1636650000,System,Climate Sensmitter,Building Automation,Data,Temperature,23.51296226340551,0,170000,2021-11-11,17:00:00
+1636653600,User3,Phone,User Feedback,Data,State,convo/meeting,1,180000,2021-11-11,18:00:00
+1636657200,User2,Phone,User Feedback,Data,State,silent,0,190000,2021-11-11,19:00:00
+1636660800,System,Smart Lighting,Building Automation,Command,Brightness,55.0,0,200000,2021-11-11,20:00:00
+1636664400,System,Climate Sensmitter,Building Automation,Data,Temperature,25.86357872149225,0,210000,2021-11-11,21:00:00
+1636671600,System,Climate Sensmitter,Building Automation,Data,Temperature,29.49894751274834,0,230000,2021-11-11,23:00:00
+1636675200,System,Smart Lighting,Building Automation,Command,Brightness,67.0,0,000000,2021-11-12,00:00:00
+1636678800,System,Smart Lighting,Building Automation,Command,Brightness,240.0,0,010000,2021-11-12,01:00:00
+1636682400,System,Climate Sensmitter,Building Automation,Data,Temperature,26.93813550085173,0,020000,2021-11-12,02:00:00
+1636686000,System,Climate Sensmitter,Building Automation,Data,Temperature,26.56607394061865,0,030000,2021-11-12,03:00:00
+1636689600,System,Smart Lighting,Building Automation,Command,Brightness,46.0,0,040000,2021-11-12,04:00:00
+1636693200,System,Climate Sensmitter,Building Automation,Data,Temperature,32.97971222862904,0,050000,2021-11-12,05:00:00
+1636696800,System,Climate Sensmitter,Building Automation,Data,Temperature,28.63139396487408,0,060000,2021-11-12,06:00:00
+1636704000,User2,Phone,User Feedback,Data,State,convo/meeting,0,080000,2021-11-12,08:00:00
+1636707600,System,Climate Sensmitter,Building Automation,Data,Temperature,39.82774791343359,0,090000,2021-11-12,09:00:00
+1636711200,User1,Phone,User Feedback,Data,State,convo/meeting,0,100000,2021-11-12,10:00:00
+1636714800,System,Smart Camera,Building Automation,Data,Direction,in,0,110000,2021-11-12,11:00:00
+1636718400,System,Smart Lighting,Building Automation,Command,Brightness,133.0,0,120000,2021-11-12,12:00:00
+1636722000,System,Smart Camera,Building Automation,Data,Presence,1,0,130000,2021-11-12,13:00:00
+1636729200,System,Smart Camera,Building Automation,Data,Direction,left,0,150000,2021-11-12,15:00:00
+1636736400,System,Smart Camera,Building Automation,Data,Direction,in,0,170000,2021-11-12,17:00:00
+1636740000,User2,Phone,User Feedback,Data,State,convo/meeting,0,180000,2021-11-12,18:00:00
+1636743600,System,Climate Sensmitter,Building Automation,Data,Temperature,31.598920201392534,0,190000,2021-11-12,19:00:00
+1636750800,User3,Phone,User Feedback,Data,State,silent,1,210000,2021-11-12,21:00:00
+1636754400,System,Climate Sensmitter,Building Automation,Data,Temperature,39.84341124981569,0,220000,2021-11-12,22:00:00
+1636761600,System,Climate Sensmitter,Building Automation,Data,Temperature,23.39889445137159,0,000000,2021-11-13,00:00:00
+1636765200,User2,Phone,User Feedback,Data,State,silent,0,010000,2021-11-13,01:00:00
+1636768800,System,Smart Camera,Building Automation,Data,Presence,1,0,020000,2021-11-13,02:00:00
+1636772400,User2,Phone,User Feedback,Data,State,silent,0,030000,2021-11-13,03:00:00
+1636779600,System,Climate Sensmitter,Building Automation,Data,Temperature,20.99892534365846,0,050000,2021-11-13,05:00:00
+1636783200,System,Smart Lighting,Building Automation,Command,Brightness,65.0,0,060000,2021-11-13,06:00:00
+1636786800,System,Smart Camera,Building Automation,Data,Direction,left,0,070000,2021-11-13,07:00:00
+1636790400,System,Smart Camera,Building Automation,Data,Direction,right,0,080000,2021-11-13,08:00:00
+1636794000,System,Smart Lighting,Building Automation,Command,Brightness,232.0,0,090000,2021-11-13,09:00:00
+1636797600,System,Climate Sensmitter,Building Automation,Data,Temperature,33.78742704531116,0,100000,2021-11-13,10:00:00
+1636801200,System,Smart Lighting,Building Automation,Command,Brightness,165.0,0,110000,2021-11-13,11:00:00
+1636804800,System,Smart Camera,Building Automation,Data,Presence,0,0,120000,2021-11-13,12:00:00
+1636808400,System,Smart Camera,Building Automation,Data,Presence,0,0,130000,2021-11-13,13:00:00
+1636819200,System,Climate Sensmitter,Building Automation,Data,Temperature,24.73821619973587,0,160000,2021-11-13,16:00:00
+1636822800,User2,Phone,User Feedback,Data,State,silent,0,170000,2021-11-13,17:00:00
+1636826400,System,Smart Camera,Building Automation,Data,Presence,1,0,180000,2021-11-13,18:00:00
+1636830000,System,Climate Sensmitter,Building Automation,Data,Temperature,35.04639917626381,0,190000,2021-11-13,19:00:00
+1636833600,System,Smart Camera,Building Automation,Data,Direction,right,0,200000,2021-11-13,20:00:00
+1636837200,User3,Phone,User Feedback,Data,State,silent,1,210000,2021-11-13,21:00:00
+1636840800,System,Climate Sensmitter,Building Automation,Data,Temperature,38.189398806416946,0,220000,2021-11-13,22:00:00
+1636848000,System,Smart Camera,Building Automation,Data,Direction,left,0,000000,2021-11-14,00:00:00
+1636851600,System,Smart Camera,Building Automation,Data,Presence,0,0,010000,2021-11-14,01:00:00
+1636855200,System,Smart Camera,Building Automation,Data,Direction,out,0,020000,2021-11-14,02:00:00
+1636858800,System,Smart Camera,Building Automation,Data,Presence,0,0,030000,2021-11-14,03:00:00
+1636862400,System,Climate Sensmitter,Building Automation,Data,Temperature,21.10101704394087,0,040000,2021-11-14,04:00:00
+1636866000,System,Climate Sensmitter,Building Automation,Data,Temperature,36.79302818747177,0,050000,2021-11-14,05:00:00
+1636869600,System,Climate Sensmitter,Building Automation,Data,Temperature,21.50533941754389,0,060000,2021-11-14,06:00:00
+1636873200,System,Climate Sensmitter,Building Automation,Data,Temperature,37.640178095782076,0,070000,2021-11-14,07:00:00
+1636876800,User1,Phone,User Feedback,Data,Count,0,0,080000,2021-11-14,08:00:00
+1636880400,User2,Phone,User Feedback,Data,State,silent,0,090000,2021-11-14,09:00:00
+1636884000,User2,Phone,User Feedback,Data,State,silent,0,100000,2021-11-14,10:00:00
+1636887600,User2,Phone,User Feedback,Data,State,silent,0,110000,2021-11-14,11:00:00
+1636891200,System,Climate Sensmitter,Building Automation,Data,Temperature,31.79377080376263,0,120000,2021-11-14,12:00:00
+1636894800,System,Smart Camera,Building Automation,Data,Direction,left,0,130000,2021-11-14,13:00:00
+1636902000,System,Smart Camera,Building Automation,Data,Direction,right,0,150000,2021-11-14,15:00:00
+1636905600,User2,Phone,User Feedback,Data,State,silent,0,160000,2021-11-14,16:00:00
+1636909200,System,Smart Camera,Building Automation,Data,Presence,1,0,170000,2021-11-14,17:00:00
+1636912800,System,Smart Camera,Building Automation,Data,Direction,left,0,180000,2021-11-14,18:00:00
+1636916400,User2,Phone,User Feedback,Data,State,silent,0,190000,2021-11-14,19:00:00
+1636923600,System,Smart Camera,Building Automation,Data,Presence,0,0,210000,2021-11-14,21:00:00
+1636927200,User3,Phone,User Feedback,Data,State,silent,1,220000,2021-11-14,22:00:00
+1636930800,System,Climate Sensmitter,Building Automation,Data,Temperature,28.322408876680367,0,230000,2021-11-14,23:00:00
+1636934400,User2,Phone,User Feedback,Data,Count,0,0,000000,2021-11-15,00:00:00
+1636938000,System,Climate Sensmitter,Building Automation,Data,Temperature,38.74085096577819,0,010000,2021-11-15,01:00:00
+1636941600,System,Smart Lighting,Building Automation,Command,Brightness,243.0,0,020000,2021-11-15,02:00:00
+1636945200,System,Climate Sensmitter,Building Automation,Data,Temperature,27.470927289841853,0,030000,2021-11-15,03:00:00
+1636948800,System,Smart Camera,Building Automation,Data,Presence,1,0,040000,2021-11-15,04:00:00
+1636952400,System,Climate Sensmitter,Building Automation,Data,Temperature,22.1682149216337,0,050000,2021-11-15,05:00:00
+1636956000,System,Smart Camera,Building Automation,Data,Direction,in,0,060000,2021-11-15,06:00:00
+1636959600,System,Climate Sensmitter,Building Automation,Data,Temperature,33.66281343808203,0,070000,2021-11-15,07:00:00
+1636963200,User1,Phone,User Feedback,Data,State,convo/meeting,0,080000,2021-11-15,08:00:00
+1636966800,System,Climate Sensmitter,Building Automation,Data,Temperature,21.036376590435317,0,090000,2021-11-15,09:00:00
+1636970400,System,Climate Sensmitter,Building Automation,Data,Temperature,20.23110514595097,0,100000,2021-11-15,10:00:00
+1636974000,User1,Phone,User Feedback,Data,State,convo/meeting,0,110000,2021-11-15,11:00:00
+1636981200,System,Climate Sensmitter,Building Automation,Data,Temperature,20.06454450600487,0,130000,2021-11-15,13:00:00
+1636984800,System,Climate Sensmitter,Building Automation,Data,Temperature,32.106959604819025,0,140000,2021-11-15,14:00:00
+1636988400,User2,Phone,User Feedback,Data,State,convo/meeting,0,150000,2021-11-15,15:00:00
+1636992000,User1,Phone,User Feedback,Data,State,convo/meeting,0,160000,2021-11-15,16:00:00
+1636995600,System,Climate Sensmitter,Building Automation,Data,Temperature,24.918715796743307,0,170000,2021-11-15,17:00:00
+1636999200,System,Smart Camera,Building Automation,Data,Presence,0,0,180000,2021-11-15,18:00:00
+1637002800,System,Climate Sensmitter,Building Automation,Data,Temperature,26.628663940587447,0,190000,2021-11-15,19:00:00
+1637006400,System,Climate Sensmitter,Building Automation,Data,Temperature,21.826286962909137,0,200000,2021-11-15,20:00:00
+1637010000,System,Smart Camera,Building Automation,Data,Direction,in,0,210000,2021-11-15,21:00:00
+1637013600,System,Smart Camera,Building Automation,Data,Direction,in,0,220000,2021-11-15,22:00:00
+1637017200,User3,Phone,User Feedback,Data,State,silent,1,230000,2021-11-15,23:00:00
+1637020800,System,Climate Sensmitter,Building Automation,Data,Temperature,30.064517417546636,0,000000,2021-11-16,00:00:00
+1637024400,User1,Phone,User Feedback,Data,State,silent,0,010000,2021-11-16,01:00:00
+1637028000,System,Smart Camera,Building Automation,Data,Presence,0,0,020000,2021-11-16,02:00:00
+1637031600,System,Smart Camera,Building Automation,Data,Direction,right,0,030000,2021-11-16,03:00:00
+1637035200,User2,Phone,User Feedback,Data,State,silent,0,040000,2021-11-16,04:00:00
+1637038800,User1,Phone,User Feedback,Data,State,convo/meeting,1,050000,2021-11-16,05:00:00
+1637042400,User1,Phone,User Feedback,Data,State,silent,0,060000,2021-11-16,06:00:00
+1637046000,System,Smart Lighting,Building Automation,Command,Brightness,156.0,0,070000,2021-11-16,07:00:00
+1637053200,User1,Phone,User Feedback,Data,Count,0,0,090000,2021-11-16,09:00:00
+1637064000,System,Climate Sensmitter,Building Automation,Data,Temperature,33.3116647088712,0,120000,2021-11-16,12:00:00
+1637071200,System,Smart Camera,Building Automation,Data,Presence,0,0,140000,2021-11-16,14:00:00
+1637074800,User3,Phone,User Feedback,Data,State,convo/meeting,1,150000,2021-11-16,15:00:00
+1637078400,System,Climate Sensmitter,Building Automation,Data,Temperature,28.498862108587176,0,160000,2021-11-16,16:00:00
+1637082000,User3,Phone,User Feedback,Data,State,convo/meeting,1,170000,2021-11-16,17:00:00
+1637085600,System,Climate Sensmitter,Building Automation,Data,Temperature,27.190572949246953,0,180000,2021-11-16,18:00:00
+1637089200,System,Smart Lighting,Building Automation,Command,Brightness,234.0,0,190000,2021-11-16,19:00:00
+1637092800,System,Climate Sensmitter,Building Automation,Data,Temperature,27.676507934833722,0,200000,2021-11-16,20:00:00
+1637096400,User2,Phone,User Feedback,Data,State,silent,0,210000,2021-11-16,21:00:00
+1637100000,System,Climate Sensmitter,Building Automation,Data,Temperature,22.594264380415897,0,220000,2021-11-16,22:00:00
+1637103600,System,Smart Camera,Building Automation,Data,Direction,out,0,230000,2021-11-16,23:00:00
+1637110800,User2,Phone,User Feedback,Data,State,silent,0,010000,2021-11-17,01:00:00
+1637114400,User1,Phone,User Feedback,Data,State,silent,0,020000,2021-11-17,02:00:00
+1637118000,User3,Phone,User Feedback,Data,Count,0,0,030000,2021-11-17,03:00:00
+1637125200,System,Smart Lighting,Building Automation,Command,Brightness,220.0,0,050000,2021-11-17,05:00:00
+1637128800,System,Smart Camera,Building Automation,Data,Direction,right,0,060000,2021-11-17,06:00:00
+1637132400,System,Smart Camera,Building Automation,Data,Presence,0,0,070000,2021-11-17,07:00:00
+1637136000,System,Climate Sensmitter,Building Automation,Data,Temperature,31.467987178531978,0,080000,2021-11-17,08:00:00
+1637143200,System,Smart Camera,Building Automation,Data,Direction,left,0,100000,2021-11-17,10:00:00
+1637154000,System,Smart Camera,Building Automation,Data,Presence,1,0,130000,2021-11-17,13:00:00
+1637157600,User2,Phone,User Feedback,Data,Count,6,0,140000,2021-11-17,14:00:00
+1637161200,System,Smart Camera,Building Automation,Data,Presence,0,0,150000,2021-11-17,15:00:00
+1637164800,System,Smart Camera,Building Automation,Data,Direction,in,0,160000,2021-11-17,16:00:00
+1637168400,User3,Phone,User Feedback,Data,Count,6,0,170000,2021-11-17,17:00:00
+1637172000,User2,Phone,User Feedback,Data,State,convo/meeting,0,180000,2021-11-17,18:00:00
+1637175600,System,Smart Camera,Building Automation,Data,Presence,1,0,190000,2021-11-17,19:00:00
+1637179200,User3,Phone,User Feedback,Data,State,silent,1,200000,2021-11-17,20:00:00
+1637182800,System,Climate Sensmitter,Building Automation,Data,Temperature,32.28125246540546,0,210000,2021-11-17,21:00:00
+1637186400,System,Smart Camera,Building Automation,Data,Presence,1,0,220000,2021-11-17,22:00:00
+1637190000,User1,Phone,User Feedback,Data,State,silent,0,230000,2021-11-17,23:00:00
+1637193600,System,Smart Camera,Building Automation,Data,Direction,right,0,000000,2021-11-18,00:00:00
+1637197200,System,Smart Camera,Building Automation,Data,Presence,0,0,010000,2021-11-18,01:00:00
+1637208000,System,Smart Lighting,Building Automation,Command,Brightness,94.0,0,040000,2021-11-18,04:00:00
+1637211600,System,Smart Camera,Building Automation,Data,Presence,1,0,050000,2021-11-18,05:00:00
+1637215200,System,Smart Camera,Building Automation,Data,Presence,1,0,060000,2021-11-18,06:00:00
+1637218800,System,Climate Sensmitter,Building Automation,Data,Temperature,34.985986512400196,0,070000,2021-11-18,07:00:00
+1637222400,System,Smart Camera,Building Automation,Data,Presence,1,0,080000,2021-11-18,08:00:00
+1637226000,System,Smart Camera,Building Automation,Data,Direction,in,0,090000,2021-11-18,09:00:00
+1637229600,System,Climate Sensmitter,Building Automation,Data,Temperature,22.011863670674853,0,100000,2021-11-18,10:00:00
+1637233200,System,Smart Camera,Building Automation,Data,Presence,1,0,110000,2021-11-18,11:00:00
+1637244000,System,Climate Sensmitter,Building Automation,Data,Temperature,31.708311174653797,0,140000,2021-11-18,14:00:00
+1637247600,User1,Phone,User Feedback,Data,State,convo/meeting,0,150000,2021-11-18,15:00:00
+1637251200,System,Smart Camera,Building Automation,Data,Direction,in,0,160000,2021-11-18,16:00:00
+1637258400,System,Smart Camera,Building Automation,Data,Direction,in,0,180000,2021-11-18,18:00:00
+1637265600,User2,Phone,User Feedback,Data,State,silent,0,200000,2021-11-18,20:00:00
+1637269200,System,Smart Camera,Building Automation,Data,Presence,1,0,210000,2021-11-18,21:00:00
+1637272800,User3,Phone,User Feedback,Data,State,silent,1,220000,2021-11-18,22:00:00
+1637276400,System,Smart Camera,Building Automation,Data,Presence,0,0,230000,2021-11-18,23:00:00
+1637280000,User2,Phone,User Feedback,Data,State,silent,0,000000,2021-11-19,00:00:00
+1637290800,System,Climate Sensmitter,Building Automation,Data,Temperature,38.44667356088992,0,030000,2021-11-19,03:00:00
+1637294400,User1,Phone,User Feedback,Data,Count,0,0,040000,2021-11-19,04:00:00
+1637298000,User2,Phone,User Feedback,Data,State,gathering,1,050000,2021-11-19,05:00:00
+1637301600,User3,Phone,User Feedback,Data,Count,0,0,060000,2021-11-19,06:00:00
+1637305200,System,Smart Camera,Building Automation,Data,Direction,left,0,070000,2021-11-19,07:00:00
+1637308800,User2,Phone,User Feedback,Data,State,convo/meeting,0,080000,2021-11-19,08:00:00
+1637312400,System,Smart Camera,Building Automation,Data,Direction,left,0,090000,2021-11-19,09:00:00
+1637316000,System,Climate Sensmitter,Building Automation,Data,Temperature,24.102767132314433,0,100000,2021-11-19,10:00:00
+1637319600,System,Smart Lighting,Building Automation,Command,Brightness,91.0,0,110000,2021-11-19,11:00:00
+1637323200,System,Climate Sensmitter,Building Automation,Data,Temperature,22.816840795741268,0,120000,2021-11-19,12:00:00
+1637330400,System,Climate Sensmitter,Building Automation,Data,Temperature,22.9288275740946,0,140000,2021-11-19,14:00:00
+1637334000,System,Climate Sensmitter,Building Automation,Data,Temperature,39.94892193949335,0,150000,2021-11-19,15:00:00
+1637337600,User3,Phone,User Feedback,Data,State,gathering,1,160000,2021-11-19,16:00:00
+1637341200,System,Climate Sensmitter,Building Automation,Data,Temperature,20.168783125781765,0,170000,2021-11-19,17:00:00
+1637344800,System,Climate Sensmitter,Building Automation,Data,Temperature,26.30958507806548,0,180000,2021-11-19,18:00:00
+1637348400,User3,Phone,User Feedback,Data,State,silent,1,190000,2021-11-19,19:00:00
+1637355600,System,Climate Sensmitter,Building Automation,Data,Temperature,35.02805523973978,0,210000,2021-11-19,21:00:00
+1637359200,System,Smart Camera,Building Automation,Data,Presence,1,0,220000,2021-11-19,22:00:00
+1637366400,System,Smart Camera,Building Automation,Data,Direction,out,0,000000,2021-11-20,00:00:00
+1637370000,System,Smart Camera,Building Automation,Data,Presence,0,0,010000,2021-11-20,01:00:00
+1637373600,System,Smart Lighting,Building Automation,Command,Brightness,206.0,0,020000,2021-11-20,02:00:00
+1637377200,User3,Phone,User Feedback,Data,State,gathering,1,030000,2021-11-20,03:00:00
+1637384400,System,Climate Sensmitter,Building Automation,Data,Temperature,23.198957951908802,0,050000,2021-11-20,05:00:00
+1637388000,User3,Phone,User Feedback,Data,State,silent,1,060000,2021-11-20,06:00:00
+1637391600,System,Smart Lighting,Building Automation,Command,Brightness,48.0,0,070000,2021-11-20,07:00:00
+1637395200,User2,Phone,User Feedback,Data,State,silent,0,080000,2021-11-20,08:00:00
+1637398800,System,Climate Sensmitter,Building Automation,Data,Temperature,33.024285174230755,0,090000,2021-11-20,09:00:00
+1637402400,System,Smart Lighting,Building Automation,Command,Brightness,173.0,0,100000,2021-11-20,10:00:00
+1637413200,System,Climate Sensmitter,Building Automation,Data,Temperature,37.42603947230015,0,130000,2021-11-20,13:00:00
+1637424000,System,Climate Sensmitter,Building Automation,Data,Temperature,33.83884413317329,0,160000,2021-11-20,16:00:00
+1637427600,User1,Phone,User Feedback,Data,State,silent,0,170000,2021-11-20,17:00:00
+1637431200,System,Climate Sensmitter,Building Automation,Data,Temperature,28.699497231974313,0,180000,2021-11-20,18:00:00
+1637434800,System,Smart Camera,Building Automation,Data,Direction,right,0,190000,2021-11-20,19:00:00
+1637438400,System,Smart Lighting,Building Automation,Command,Brightness,106.0,0,200000,2021-11-20,20:00:00
+1637442000,System,Smart Camera,Building Automation,Data,Direction,right,0,210000,2021-11-20,21:00:00
+1637445600,System,Smart Camera,Building Automation,Data,Direction,out,0,220000,2021-11-20,22:00:00
+1637452800,User3,Phone,User Feedback,Data,State,silent,1,000000,2021-11-21,00:00:00
+1637456400,System,Climate Sensmitter,Building Automation,Data,Temperature,33.917703935211705,0,010000,2021-11-21,01:00:00
+1637460000,System,Smart Lighting,Building Automation,Command,Brightness,213.0,0,020000,2021-11-21,02:00:00
+1637463600,System,Smart Camera,Building Automation,Data,Presence,0,0,030000,2021-11-21,03:00:00
+1637467200,System,Smart Camera,Building Automation,Data,Presence,1,0,040000,2021-11-21,04:00:00
+1637470800,User1,Phone,User Feedback,Data,State,silent,0,050000,2021-11-21,05:00:00
+1637474400,System,Climate Sensmitter,Building Automation,Data,Temperature,33.5641477940434,0,060000,2021-11-21,06:00:00
+1637478000,User3,Phone,User Feedback,Data,State,gathering,1,070000,2021-11-21,07:00:00
+1637485200,User3,Phone,User Feedback,Data,State,silent,1,090000,2021-11-21,09:00:00
+1637488800,System,Smart Camera,Building Automation,Data,Direction,out,0,100000,2021-11-21,10:00:00
+1637492400,System,Smart Camera,Building Automation,Data,Presence,0,0,110000,2021-11-21,11:00:00
+1637496000,System,Climate Sensmitter,Building Automation,Data,Temperature,27.53265727114878,0,120000,2021-11-21,12:00:00
+1637499600,User2,Phone,User Feedback,Data,State,silent,0,130000,2021-11-21,13:00:00
+1637503200,User3,Phone,User Feedback,Data,State,silent,1,140000,2021-11-21,14:00:00
+1637506800,System,Climate Sensmitter,Building Automation,Data,Temperature,22.221478237457944,0,150000,2021-11-21,15:00:00
+1637510400,System,Smart Camera,Building Automation,Data,Direction,right,0,160000,2021-11-21,16:00:00
+1637514000,System,Smart Camera,Building Automation,Data,Direction,in,0,170000,2021-11-21,17:00:00
+1637521200,User1,Phone,User Feedback,Data,State,silent,0,190000,2021-11-21,19:00:00
+1637524800,System,Smart Camera,Building Automation,Data,Direction,in,0,200000,2021-11-21,20:00:00
+1637528400,System,Smart Camera,Building Automation,Data,Direction,out,0,210000,2021-11-21,21:00:00
+1637539200,User2,Phone,User Feedback,Data,State,silent,0,000000,2021-11-22,00:00:00
+1637542800,User3,Phone,User Feedback,Data,State,convo/meeting,1,010000,2021-11-22,01:00:00
+1637546400,System,Climate Sensmitter,Building Automation,Data,Temperature,25.77897131958693,0,020000,2021-11-22,02:00:00
+1637550000,User2,Phone,User Feedback,Data,State,silent,0,030000,2021-11-22,03:00:00
+1637553600,System,Climate Sensmitter,Building Automation,Data,Temperature,28.260241162704162,0,040000,2021-11-22,04:00:00
+1637557200,User2,Phone,User Feedback,Data,State,convo/meeting,1,050000,2021-11-22,05:00:00
+1637560800,User3,Phone,User Feedback,Data,State,silent,1,060000,2021-11-22,06:00:00
+1637564400,System,Climate Sensmitter,Building Automation,Data,Temperature,29.568749456659777,0,070000,2021-11-22,07:00:00
+1637568000,System,Smart Camera,Building Automation,Data,Presence,0,0,080000,2021-11-22,08:00:00
+1637571600,System,Smart Camera,Building Automation,Data,Presence,1,0,090000,2021-11-22,09:00:00
+1637575200,System,Climate Sensmitter,Building Automation,Data,Temperature,35.16247004795143,0,100000,2021-11-22,10:00:00
+1637578800,User3,Phone,User Feedback,Data,State,convo/meeting,1,110000,2021-11-22,11:00:00
+1637586000,System,Smart Camera,Building Automation,Data,Presence,0,0,130000,2021-11-22,13:00:00
+1637589600,System,Smart Camera,Building Automation,Data,Presence,1,0,140000,2021-11-22,14:00:00
+1637593200,User2,Phone,User Feedback,Data,State,convo/meeting,0,150000,2021-11-22,15:00:00
+1637596800,User2,Phone,User Feedback,Data,State,convo/meeting,0,160000,2021-11-22,16:00:00
+1637600400,System,Climate Sensmitter,Building Automation,Data,Temperature,33.43734450748561,0,170000,2021-11-22,17:00:00
+1637607600,System,Smart Camera,Building Automation,Data,Direction,left,0,190000,2021-11-22,19:00:00
+1637614800,User2,Phone,User Feedback,Data,State,silent,0,210000,2021-11-22,21:00:00
+1637618400,System,Climate Sensmitter,Building Automation,Data,Temperature,37.84662281970498,0,220000,2021-11-22,22:00:00
+1637625600,System,Smart Camera,Building Automation,Data,Direction,left,0,000000,2021-11-23,00:00:00
+1637629200,System,Smart Camera,Building Automation,Data,Direction,right,0,010000,2021-11-23,01:00:00
+1637632800,User2,Phone,User Feedback,Data,State,silent,0,020000,2021-11-23,02:00:00
+1637636400,User3,Phone,User Feedback,Data,State,silent,1,030000,2021-11-23,03:00:00
+1637640000,User3,Phone,User Feedback,Data,State,silent,1,040000,2021-11-23,04:00:00
+1637643600,System,Smart Camera,Building Automation,Data,Presence,0,0,050000,2021-11-23,05:00:00
+1637647200,User1,Phone,User Feedback,Data,State,silent,0,060000,2021-11-23,06:00:00
+1637654400,System,Smart Lighting,Building Automation,Command,Brightness,190.0,0,080000,2021-11-23,08:00:00
+1637658000,System,Climate Sensmitter,Building Automation,Data,Temperature,26.807835353532457,0,090000,2021-11-23,09:00:00
+1637661600,System,Climate Sensmitter,Building Automation,Data,Temperature,29.33843813300773,0,100000,2021-11-23,10:00:00
+1637665200,User3,Phone,User Feedback,Data,Count,0,0,110000,2021-11-23,11:00:00
+1637668800,User1,Phone,User Feedback,Data,State,convo/meeting,0,120000,2021-11-23,12:00:00
+1637676000,System,Smart Lighting,Building Automation,Command,Brightness,117.0,0,140000,2021-11-23,14:00:00
+1637679600,User1,Phone,User Feedback,Data,State,convo/meeting,0,150000,2021-11-23,15:00:00
+1637683200,User2,Phone,User Feedback,Data,State,convo/meeting,0,160000,2021-11-23,16:00:00
+1637686800,System,Smart Camera,Building Automation,Data,Presence,1,0,170000,2021-11-23,17:00:00
+1637690400,System,Climate Sensmitter,Building Automation,Data,Temperature,39.35034524963068,0,180000,2021-11-23,18:00:00
+1637694000,System,Climate Sensmitter,Building Automation,Data,Temperature,28.147481690417756,0,190000,2021-11-23,19:00:00
+1637712000,User3,Phone,User Feedback,Data,State,silent,1,000000,2021-11-24,00:00:00
+1637715600,System,Climate Sensmitter,Building Automation,Data,Temperature,21.305418419380302,0,010000,2021-11-24,01:00:00
+1637719200,System,Climate Sensmitter,Building Automation,Data,Temperature,36.896578659808455,0,020000,2021-11-24,02:00:00
+1637722800,System,Smart Camera,Building Automation,Data,Direction,right,0,030000,2021-11-24,03:00:00
+1637726400,User1,Phone,User Feedback,Data,Count,0,0,040000,2021-11-24,04:00:00
+1637730000,User3,Phone,User Feedback,Data,State,convo/meeting,1,050000,2021-11-24,05:00:00
+1637733600,User2,Phone,User Feedback,Data,State,gathering,1,060000,2021-11-24,06:00:00
+1637737200,System,Smart Camera,Building Automation,Data,Direction,out,0,070000,2021-11-24,07:00:00
+1637740800,System,Smart Camera,Building Automation,Data,Direction,left,0,080000,2021-11-24,08:00:00
+1637744400,System,Climate Sensmitter,Building Automation,Data,Temperature,29.98596899842442,0,090000,2021-11-24,09:00:00
+1637751600,System,Climate Sensmitter,Building Automation,Data,Temperature,34.45126142187041,0,110000,2021-11-24,11:00:00
+1637755200,User3,Phone,User Feedback,Data,State,convo/meeting,1,120000,2021-11-24,12:00:00
+1637758800,System,Climate Sensmitter,Building Automation,Data,Temperature,25.020431317663245,0,130000,2021-11-24,13:00:00
+1637762400,System,Climate Sensmitter,Building Automation,Data,Temperature,39.19082124789959,0,140000,2021-11-24,14:00:00
+1637766000,System,Climate Sensmitter,Building Automation,Data,Temperature,21.243683192789895,0,150000,2021-11-24,15:00:00
+1637769600,System,Smart Lighting,Building Automation,Command,Brightness,136.0,0,160000,2021-11-24,16:00:00
+1637773200,System,Smart Camera,Building Automation,Data,Direction,left,0,170000,2021-11-24,17:00:00
+1637780400,System,Climate Sensmitter,Building Automation,Data,Temperature,25.697868192005238,0,190000,2021-11-24,19:00:00
+1637791200,System,Climate Sensmitter,Building Automation,Data,Temperature,28.567425298709214,0,220000,2021-11-24,22:00:00
+1637794800,User3,Phone,User Feedback,Data,State,silent,1,230000,2021-11-24,23:00:00
+1637798400,User1,Phone,User Feedback,Data,State,silent,0,000000,2021-11-25,00:00:00
+1637802000,System,Climate Sensmitter,Building Automation,Data,Temperature,23.851207992288717,0,010000,2021-11-25,01:00:00
+1637805600,System,Smart Lighting,Building Automation,Command,Brightness,85.0,0,020000,2021-11-25,02:00:00
+1637809200,System,Climate Sensmitter,Building Automation,Data,Temperature,30.589089497121385,0,030000,2021-11-25,03:00:00
+1637812800,System,Smart Camera,Building Automation,Data,Direction,in,0,040000,2021-11-25,04:00:00
+1637816400,System,Climate Sensmitter,Building Automation,Data,Temperature,38.980276557554106,0,050000,2021-11-25,05:00:00
+1637820000,System,Smart Camera,Building Automation,Data,Direction,right,0,060000,2021-11-25,06:00:00
+1637830800,System,Smart Camera,Building Automation,Data,Direction,out,0,090000,2021-11-25,09:00:00
+1637834400,System,Smart Camera,Building Automation,Data,Presence,1,0,100000,2021-11-25,10:00:00
+1637838000,User2,Phone,User Feedback,Data,State,convo/meeting,0,110000,2021-11-25,11:00:00
+1637841600,System,Climate Sensmitter,Building Automation,Data,Temperature,31.70403330650708,0,120000,2021-11-25,12:00:00
+1637848800,System,Climate Sensmitter,Building Automation,Data,Temperature,21.874027080391485,0,140000,2021-11-25,14:00:00
+1637856000,System,Smart Lighting,Building Automation,Command,Brightness,150.0,0,160000,2021-11-25,16:00:00
+1637859600,User3,Phone,User Feedback,Data,State,convo/meeting,1,170000,2021-11-25,17:00:00
+1637863200,User3,Phone,User Feedback,Data,State,convo/meeting,1,180000,2021-11-25,18:00:00
+1637866800,System,Climate Sensmitter,Building Automation,Data,Temperature,21.952801498227355,0,190000,2021-11-25,19:00:00
+1637870400,System,Climate Sensmitter,Building Automation,Data,Temperature,26.53300196890779,0,200000,2021-11-25,20:00:00
+1637874000,User3,Phone,User Feedback,Data,State,silent,1,210000,2021-11-25,21:00:00
+1637881200,User2,Phone,User Feedback,Data,Count,0,0,230000,2021-11-25,23:00:00
+1637884800,System,Climate Sensmitter,Building Automation,Data,Temperature,20.82702073754237,0,000000,2021-11-26,00:00:00
+1637888400,System,Smart Camera,Building Automation,Data,Presence,1,0,010000,2021-11-26,01:00:00
+1637895600,System,Smart Camera,Building Automation,Data,Direction,in,0,030000,2021-11-26,03:00:00
+1637899200,User2,Phone,User Feedback,Data,State,convo/meeting,1,040000,2021-11-26,04:00:00
+1637902800,User1,Phone,User Feedback,Data,State,silent,0,050000,2021-11-26,05:00:00
+1637906400,User3,Phone,User Feedback,Data,State,silent,1,060000,2021-11-26,06:00:00
+1637910000,System,Smart Lighting,Building Automation,Command,Brightness,162.0,0,070000,2021-11-26,07:00:00
+1637917200,User3,Phone,User Feedback,Data,State,convo/meeting,1,090000,2021-11-26,09:00:00
+1637920800,User1,Phone,User Feedback,Data,State,convo/meeting,0,100000,2021-11-26,10:00:00
+1637928000,System,Climate Sensmitter,Building Automation,Data,Temperature,24.51158257708762,0,120000,2021-11-26,12:00:00
+1637935200,System,Smart Camera,Building Automation,Data,Presence,1,0,140000,2021-11-26,14:00:00
+1637938800,User2,Phone,User Feedback,Data,State,gathering,0,150000,2021-11-26,15:00:00
+1637946000,System,Climate Sensmitter,Building Automation,Data,Temperature,22.908389767914233,0,170000,2021-11-26,17:00:00
+1637949600,System,Smart Camera,Building Automation,Data,Presence,1,0,180000,2021-11-26,18:00:00
+1637953200,User3,Phone,User Feedback,Data,State,silent,1,190000,2021-11-26,19:00:00
+1637956800,System,Smart Camera,Building Automation,Data,Direction,left,0,200000,2021-11-26,20:00:00
+1637964000,User1,Phone,User Feedback,Data,State,silent,0,220000,2021-11-26,22:00:00
+1637967600,System,Smart Camera,Building Automation,Data,Presence,0,0,230000,2021-11-26,23:00:00
+1637971200,User2,Phone,User Feedback,Data,State,convo/meeting,1,000000,2021-11-27,00:00:00
+1637974800,User3,Phone,User Feedback,Data,State,silent,1,010000,2021-11-27,01:00:00
+1637982000,System,Climate Sensmitter,Building Automation,Data,Temperature,22.644727867689237,0,030000,2021-11-27,03:00:00
+1637985600,User1,Phone,User Feedback,Data,State,silent,0,040000,2021-11-27,04:00:00
+1637989200,System,Climate Sensmitter,Building Automation,Data,Temperature,20.202381163375648,0,050000,2021-11-27,05:00:00
+1637992800,System,Smart Camera,Building Automation,Data,Presence,0,0,060000,2021-11-27,06:00:00
+1637996400,User2,Phone,User Feedback,Data,State,convo/meeting,1,070000,2021-11-27,07:00:00
+1638003600,System,Smart Camera,Building Automation,Data,Direction,in,0,090000,2021-11-27,09:00:00
+1638010800,User2,Phone,User Feedback,Data,State,silent,0,110000,2021-11-27,11:00:00
+1638014400,User2,Phone,User Feedback,Data,State,silent,0,120000,2021-11-27,12:00:00
+1638018000,User1,Phone,User Feedback,Data,State,silent,0,130000,2021-11-27,13:00:00
+1638025200,System,Smart Lighting,Building Automation,Command,Brightness,136.0,0,150000,2021-11-27,15:00:00
+1638028800,System,Smart Camera,Building Automation,Data,Presence,0,0,160000,2021-11-27,16:00:00
+1638032400,System,Climate Sensmitter,Building Automation,Data,Temperature,23.86223713292013,0,170000,2021-11-27,17:00:00
+1638036000,System,Climate Sensmitter,Building Automation,Data,Temperature,30.863286679766986,0,180000,2021-11-27,18:00:00
+1638039600,System,Smart Camera,Building Automation,Data,Direction,out,0,190000,2021-11-27,19:00:00
+1638043200,System,Smart Lighting,Building Automation,Command,Brightness,227.0,0,200000,2021-11-27,20:00:00
+1638046800,User1,Phone,User Feedback,Data,State,silent,0,210000,2021-11-27,21:00:00
+1638050400,System,Smart Lighting,Building Automation,Command,Brightness,228.0,0,220000,2021-11-27,22:00:00
+1638054000,System,Climate Sensmitter,Building Automation,Data,Temperature,23.96260980096648,0,230000,2021-11-27,23:00:00
+1638057600,System,Climate Sensmitter,Building Automation,Data,Temperature,34.23426562400594,0,000000,2021-11-28,00:00:00
+1638061200,User3,Phone,User Feedback,Data,State,silent,1,010000,2021-11-28,01:00:00
+1638072000,System,Climate Sensmitter,Building Automation,Data,Temperature,20.801649916700896,0,040000,2021-11-28,04:00:00
+1638079200,System,Smart Camera,Building Automation,Data,Presence,0,0,060000,2021-11-28,06:00:00
+1638082800,System,Smart Lighting,Building Automation,Command,Brightness,58.0,0,070000,2021-11-28,07:00:00
+1638086400,System,Climate Sensmitter,Building Automation,Data,Temperature,25.00023664615618,0,080000,2021-11-28,08:00:00
+1638093600,System,Climate Sensmitter,Building Automation,Data,Temperature,21.410225727021096,0,100000,2021-11-28,10:00:00
+1638097200,System,Smart Lighting,Building Automation,Command,Brightness,115.0,0,110000,2021-11-28,11:00:00
+1638100800,System,Smart Camera,Building Automation,Data,Presence,1,0,120000,2021-11-28,12:00:00
+1638104400,User1,Phone,User Feedback,Data,State,silent,0,130000,2021-11-28,13:00:00
+1638108000,System,Climate Sensmitter,Building Automation,Data,Temperature,35.20822417471216,0,140000,2021-11-28,14:00:00
+1638111600,System,Smart Camera,Building Automation,Data,Direction,left,0,150000,2021-11-28,15:00:00
+1638115200,System,Climate Sensmitter,Building Automation,Data,Temperature,36.439042053639575,0,160000,2021-11-28,16:00:00
+1638122400,System,Climate Sensmitter,Building Automation,Data,Temperature,39.36292890495807,0,180000,2021-11-28,18:00:00
+1638126000,System,Climate Sensmitter,Building Automation,Data,Temperature,36.313881295368745,0,190000,2021-11-28,19:00:00
+1638129600,System,Smart Camera,Building Automation,Data,Direction,left,0,200000,2021-11-28,20:00:00
+1638133200,User2,Phone,User Feedback,Data,State,silent,0,210000,2021-11-28,21:00:00
+1638136800,User3,Phone,User Feedback,Data,State,convo/meeting,1,220000,2021-11-28,22:00:00
+1638140400,System,Climate Sensmitter,Building Automation,Data,Temperature,28.14706217638986,0,230000,2021-11-28,23:00:00
+1638144000,System,Smart Camera,Building Automation,Data,Direction,right,0,000000,2021-11-29,00:00:00
+1638147600,System,Smart Camera,Building Automation,Data,Presence,1,0,010000,2021-11-29,01:00:00
+1638151200,System,Smart Camera,Building Automation,Data,Presence,1,0,020000,2021-11-29,02:00:00
+1638154800,System,Smart Lighting,Building Automation,Command,Brightness,60.0,0,030000,2021-11-29,03:00:00
+1638158400,User2,Phone,User Feedback,Data,State,silent,0,040000,2021-11-29,04:00:00
+1638162000,System,Smart Camera,Building Automation,Data,Presence,0,0,050000,2021-11-29,05:00:00
+1638165600,User1,Phone,User Feedback,Data,State,silent,0,060000,2021-11-29,06:00:00
+1638176400,System,Smart Camera,Building Automation,Data,Direction,right,0,090000,2021-11-29,09:00:00
+1638180000,System,Climate Sensmitter,Building Automation,Data,Temperature,21.768680682369723,0,100000,2021-11-29,10:00:00
+1638183600,User1,Phone,User Feedback,Data,State,convo/meeting,0,110000,2021-11-29,11:00:00
+1638187200,User3,Phone,User Feedback,Data,State,convo/meeting,1,120000,2021-11-29,12:00:00
+1638190800,User3,Phone,User Feedback,Data,State,convo/meeting,1,130000,2021-11-29,13:00:00
+1638194400,System,Climate Sensmitter,Building Automation,Data,Temperature,28.645781501713202,0,140000,2021-11-29,14:00:00
+1638198000,System,Climate Sensmitter,Building Automation,Data,Temperature,24.56325388366526,0,150000,2021-11-29,15:00:00
+1638201600,User3,Phone,User Feedback,Data,State,convo/meeting,1,160000,2021-11-29,16:00:00
+1638205200,System,Smart Camera,Building Automation,Data,Direction,left,0,170000,2021-11-29,17:00:00
+1638208800,System,Climate Sensmitter,Building Automation,Data,Temperature,33.51509982522027,0,180000,2021-11-29,18:00:00
+1638212400,System,Climate Sensmitter,Building Automation,Data,Temperature,22.655241881431685,0,190000,2021-11-29,19:00:00
+1638219600,System,Climate Sensmitter,Building Automation,Data,Temperature,24.752963067427615,0,210000,2021-11-29,21:00:00
+1638226800,User2,Phone,User Feedback,Data,Count,0,0,230000,2021-11-29,23:00:00
+1638230400,System,Smart Lighting,Building Automation,Command,Brightness,248.0,0,000000,2021-11-30,00:00:00
+1638234000,System,Smart Camera,Building Automation,Data,Direction,right,0,010000,2021-11-30,01:00:00
+1638241200,System,Smart Camera,Building Automation,Data,Presence,1,0,030000,2021-11-30,03:00:00
+1638244800,System,Smart Lighting,Building Automation,Command,Brightness,28.0,0,040000,2021-11-30,04:00:00
+1638248400,User1,Phone,User Feedback,Data,State,silent,0,050000,2021-11-30,05:00:00
+1638252000,System,Climate Sensmitter,Building Automation,Data,Temperature,20.849294577312484,0,060000,2021-11-30,06:00:00
+1638255600,System,Smart Camera,Building Automation,Data,Direction,out,0,070000,2021-11-30,07:00:00
+1638259200,System,Smart Lighting,Building Automation,Command,Brightness,0.0,0,080000,2021-11-30,08:00:00
+1638262800,System,Smart Camera,Building Automation,Data,Direction,out,0,090000,2021-11-30,09:00:00
+1638266400,User3,Phone,User Feedback,Data,Count,0,0,100000,2021-11-30,10:00:00
+1638270000,User2,Phone,User Feedback,Data,State,convo/meeting,0,110000,2021-11-30,11:00:00
+1638273600,System,Climate Sensmitter,Building Automation,Data,Temperature,24.29340826566176,0,120000,2021-11-30,12:00:00
+1638277200,System,Climate Sensmitter,Building Automation,Data,Temperature,21.166401538378807,0,130000,2021-11-30,13:00:00
+1638280800,System,Smart Camera,Building Automation,Data,Presence,0,0,140000,2021-11-30,14:00:00
+1638284400,System,Smart Camera,Building Automation,Data,Direction,out,0,150000,2021-11-30,15:00:00
+1638288000,User1,Phone,User Feedback,Data,State,convo/meeting,0,160000,2021-11-30,16:00:00
+1638291600,System,Climate Sensmitter,Building Automation,Data,Temperature,26.012716661943365,0,170000,2021-11-30,17:00:00
+1638298800,System,Smart Camera,Building Automation,Data,Presence,0,0,190000,2021-11-30,19:00:00
+1638302400,System,Climate Sensmitter,Building Automation,Data,Temperature,35.94779909994529,0,200000,2021-11-30,20:00:00
+1638306000,System,Climate Sensmitter,Building Automation,Data,Temperature,20.373762054786017,0,210000,2021-11-30,21:00:00
+1638309600,User3,Phone,User Feedback,Data,State,silent,1,220000,2021-11-30,22:00:00
+1638313200,User3,Phone,User Feedback,Data,State,silent,1,230000,2021-11-30,23:00:00
+1638316800,System,Climate Sensmitter,Building Automation,Data,Temperature,22.89034179545277,0,000000,2021-12-01,00:00:00
